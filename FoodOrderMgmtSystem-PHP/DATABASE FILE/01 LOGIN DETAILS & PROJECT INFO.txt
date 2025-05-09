@@ -1,0 +1,21 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: food**
+
+**Developed by Haxxor sid**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
+**Customer Login Details**
+
+Username: james
+Password: password
+
+Username: davis
+Password: password
